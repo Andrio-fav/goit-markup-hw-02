@@ -66,7 +66,7 @@ button {
     background-color: #2e2f42;
 }
 
-.htxt {
+.hrtxt {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -81,12 +81,83 @@ button {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    background-color: #4D5AE5;
 }
 
 .btn:hover,
 .btn:focus {
     color: #404BBF;
     cursor: pointer;
+}
+
+.head {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.htxt {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.sect {
+    background-color: #F4F4FD;
+}
+
+.shd {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.lit {
+    background-color: #FFFFFF;
+}
+
+.human {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.prof {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.main-heading {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.cap {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.amd {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .footer {
@@ -97,7 +168,7 @@ button {
     color: #f4f4fd;
 }
 
-.txt {
+.ftxt {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
