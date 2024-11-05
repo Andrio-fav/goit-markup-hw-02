@@ -30,20 +30,75 @@
     color: #2e2f42;
 }
 
-.nav:hover .nav:focus {
+.nav:hover,
+.nav:focus {
     color: #404bbf;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
 }
 
 .address {
     font-style: normal;
 }
-.address-item {
+.addritem {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     font-family: inherit;
 }
-.address-item:hover .address-item:focus {
+.addritem:hover,
+.addritem:focus {
     color: #404bbf;
+}
+
+.hero {
+    background-color: #2e2f42;
+}
+
+.htxt {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.btn {
+    font-family: "Roboto",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.btn:hover,
+.btn:focus {
+    color: #404BBF;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.studiolog {
+    color: #f4f4fd;
+}
+
+.txt {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
